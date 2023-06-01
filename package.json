@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "scripts": {
     "lint": "eslint .",
     "test": "yarn run test:unit",

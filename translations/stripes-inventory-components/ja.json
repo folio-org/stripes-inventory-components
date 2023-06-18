@@ -712,7 +712,7 @@
     "showTags": "タグを表示",
     "actions": "アクション",
     "showColumns": "カラムを表示",
-    "copycat.import": "Import",
+    "copycat.import": "インポート",
     "copycat.reimport": "Re-import",
     "copycat.overlaySourceBib": "Overlay source bibliographic record",
     "copycat.noProfiles": "No profiles enabled",

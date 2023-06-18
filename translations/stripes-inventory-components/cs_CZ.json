@@ -733,7 +733,7 @@
     "remote.warning.common.items": "Jednotka byla úspěšně přesunuta do FOLIO. Chcete-li dokončit odstranění této jednotky ze vzdáleného úložiště, spusťte výstup o výjimce nebo to sdělte přímo lokaci vzdáleného úložiště.",
     "remote.warning.titles": "To zahrnuje {count, plural, =0 {<strong>ne</strong> názvy} one {<strong>#</strong> název} other {<strong>#</strong> názvy}}.",
     "remote.holdings": "holdingy",
-    "remote.items": "{count, plural, one {this item} other {<strong>#</strong> items}}",
+    "remote.items": "{count, plural, one {tato jednotka} few {jednotek} many {jednotek} other {jednotky}}",
     "warning.instance.suppressedFromDiscovery": "Upozornění: Titul je označen jako potlačený z vyhledávání",
     "warning.instance.staffSuppressed": "Upozornění: Titul je označen jako potlačený zaměstnanci",
     "warning.instance.suppressedFromDiscoveryAndStaffSuppressed": "Upozornění: Titul je označen jako potlačený z vyhledávání a potlačený zaměstnanci",

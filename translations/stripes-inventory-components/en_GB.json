@@ -117,7 +117,7 @@
     "boundWithTitles.enterHoldingsHrid": "Enter Holdings HRID",
     "holdingsLabelShort": "Holdings:",
     "holdingsTitle": " Holdings: {location} > {callNumber}",
-    "holdingsPaneTitle": "Holding • {location} • {callNumber}",
+    "holdingsPaneTitle": "Holdings • {location} • {callNumber}",
     "waitingForResources": "Waiting for resources",
     "fetchingMarcRecord": "Fetching MARC record",
     "viewMarcSource": "View MARC source",

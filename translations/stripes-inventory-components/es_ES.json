@@ -29,7 +29,7 @@
     "item.availability.requests": "Peticiones",
     "item.availability.borrower": "Prestatario",
     "item.availability.loanDate": "Fecha de préstamo",
-    "item.availability.dueDate": "Fecha de devolución",
+    "item.availability.dueDate": "Fecha de vencimiento",
     "uniqueCode": "El código debe ser único",
     "uniqueName": "El nombre debe ser único",
     "fillIn": "Por favor complete ésto para continuar",

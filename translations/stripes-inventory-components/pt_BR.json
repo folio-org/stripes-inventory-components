@@ -446,7 +446,7 @@
     "instanceMatchKey": "Chave de correspondência de instância",
     "addStatisticalCode": "Adicionar código estatístico",
     "instanceStatus": "Termo do status da instância",
-    "instanceStatusShort": "Estado da instância",
+    "instanceStatusShort": "Status da instância",
     "selectInstanceStatus": "Selecione o status da instância",
     "defaultInstanceStatus": "Status padrão da instância",
     "modeOfIssuance": "Modo de emissão",

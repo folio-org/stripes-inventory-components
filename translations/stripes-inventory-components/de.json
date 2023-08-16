@@ -279,7 +279,7 @@
     "descriptionOfPieces": "Beschreibung der Teile",
     "numberOfMissingPieces": "Anzahl der fehlenden Teile",
     "missingPieces": "Fehlende Teile",
-    "itemDamagedStatus": "Schadensbeschreibung des Exemplars",
+    "itemDamagedStatus": "Beschädigungsstatus des Exemplars",
     "language": "Sprache",
     "languages": "Sprachen",
     "addLanguage": "Sprache hinzufügen",

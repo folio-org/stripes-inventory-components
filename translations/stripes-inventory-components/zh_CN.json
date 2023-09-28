@@ -513,7 +513,7 @@
     "location.confirm.confirmBtn": "是",
     "location.confirm.common.header": "注意！",
     "location.confirm.inactive.header": "未激活馆藏地",
-    "location.confirm.inactive.message": "此位置的状态为非活动状态。您确定要选择此位置吗？",
+    "location.confirm.inactive.message": "此位置的状态为未激活状态。您确定要选择此位置吗？",
     "contributorType": "责任者类型",
     "contributorTypes": "贡献者类型",
     "instanceStatusTypes": "实例状态类型",

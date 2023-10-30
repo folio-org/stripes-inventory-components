@@ -502,7 +502,7 @@
     "copyNumbers": "Exemplarnummern",
     "addCopyNumber": "Exemplarnummer hinzufügen",
     "removeCopyNumbre": "Exemplarnummer {num} entfernen",
-    "removeIdentifier": "Identifier entfernen",
+    "removeIdentifier": "Identifier entfernen {num}",
     "editItemDialog": "Edit item dialog",
     "copyItemDialog": "Copy item dialog",
     "copyItem": "Duplizieren",

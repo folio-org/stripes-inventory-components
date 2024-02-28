@@ -22,7 +22,7 @@
     "@bigtest/interactor": "^0.7.0",
     "@bigtest/mocha": "^0.5.1",
     "@bigtest/react": "^0.1.2",
-    "@folio/eslint-config-stripes": "^6.0.0",
+    "@folio/eslint-config-stripes": "^7.0.0",
     "@folio/jest-config-stripes": "^1.0.0",
     "@folio/stripes": "^8.0.0",
     "@folio/stripes-cli": "^2.0.0",

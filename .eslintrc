@@ -14,7 +14,7 @@
       }
     },
     {
-      "files": [ "src/**"],
+      "files": [ "lib/**"],
       "rules": {
         "react-hooks/exhaustive-deps": "off",
         "react/forbid-prop-types": [ 1, { "forbid": [ "array" ] } ]

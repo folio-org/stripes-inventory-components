@@ -714,7 +714,7 @@
     "showColumns": "Afficher les colonnes",
     "copycat.import": "Importation",
     "copycat.reimport": "Re-import",
-    "copycat.overlaySourceBib": "Overlay source bibliographic record",
+    "copycat.overlaySourceBib": "Écraser la notice bibliographique source",
     "copycat.noProfiles": "Aucun profil activé",
     "copycat.externalTarget": "External target",
     "copycat.enterIdentifier": "Enter the {identifierName} identifier",

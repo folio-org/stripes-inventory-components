@@ -1,3 +1,7 @@
 {
-  "meta.title": "Inventory"
+  "meta.title": "Inventory",
+  "noMatchingOptions": "No matching options",
+  "showMoreOptions": "Show more options",
+  "more": "More",
+  "filters.tenantId": "Held by"
 }

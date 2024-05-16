@@ -1,12 +1,10 @@
-import React from 'react';
-
-const STRIPES = {
+const buildStripes = (otherProperties = {}) => ({
   actionNames: [],
-  clone: () => ({ ...STRIPES }),
+  clone: buildStripes,
   connect: Comp => Comp,
   config: {},
   currency: 'USD',
-  hasInterface: () => true,
+  hasInterface: jest.fn().mockReturnValue(true),
   hasPerm: jest.fn().mockReturnValue(true),
   locale: 'en-US',
   logger: {
@@ -35,14 +33,20 @@ const STRIPES = {
     user: {
       id: 'b1add99d-530b-5912-94f3-4091b4d87e2c',
       username: 'diku_admin',
+      consortium: {
+        centralTenantId: 'consortia',
+      },
     },
   },
   withOkapi: true,
-};
+  ...otherProperties,
+});
+
+const STRIPES = buildStripes();
 
 const mockStripesCore = {
   stripesConnect: Component => ({ mutator, resources, stripes, ...rest }) => {
-    const fakeMutator = mutator || Object.keys(Component.manifest).reduce((acc, mutatorName) => {
+    const fakeMutator = mutator || Object.keys(Component.manifest || {}).reduce((acc, mutatorName) => {
       const returnValue = Component.manifest[mutatorName].records ? [] : {};
 
       acc[mutatorName] = {
@@ -58,7 +62,7 @@ const mockStripesCore = {
       return acc;
     }, {});
 
-    const fakeResources = resources || Object.keys(Component.manifest).reduce((acc, resourceName) => {
+    const fakeResources = resources || Object.keys(Component.manifest || {}).reduce((acc, resourceName) => {
       acc[resourceName] = {
         records: [],
       };
@@ -71,7 +75,13 @@ const mockStripesCore = {
     return <Component {...rest} mutator={fakeMutator} resources={fakeResources} stripes={fakeStripes} />;
   },
 
-  useOkapiKy: jest.fn(),
+  useOkapiKy: jest.fn().mockReturnValue({
+    get: jest.fn(),
+    post: jest.fn(),
+    put: jest.fn(),
+    delete: jest.fn(),
+    extend: jest.fn().mockReturnValue(this),
+  }),
 
   useStripes: () => STRIPES,
 
@@ -87,12 +97,22 @@ const mockStripesCore = {
   // eslint-disable-next-line react/prop-types
   IfPermission: jest.fn(props => <>{props.children}</>),
 
+  withOkapiKy: jest.fn((Component) => (props) => <Component {...props} />),
+
   // eslint-disable-next-line react/prop-types
   IfInterface: jest.fn(props => <>{props.children}</>),
 
   useNamespace: () => ['@folio/inventory'],
 
-  TitleManager: ({ children }) => <>{children}</>
+  TitleManager: ({ children }) => <>{children}</>,
+
+  checkIfUserInMemberTenant: jest.fn(() => true),
+
+  checkIfUserInCentralTenant: jest.fn(() => false),
+
+  updateTenant: jest.fn(() => {}),
+
+  validateUser: jest.fn(() => {}),
 };
 
 jest.mock('@folio/stripes/core', () => ({
@@ -104,3 +124,5 @@ jest.mock('@folio/stripes-core', () => ({
   ...jest.requireActual('@folio/stripes-core'),
   ...mockStripesCore
 }), { virtual: true });
+
+export default buildStripes;

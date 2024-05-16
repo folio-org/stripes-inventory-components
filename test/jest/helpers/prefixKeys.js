@@ -1,4 +1,4 @@
-const prefixKeys = (obj, prefix = 'stripes-data-transfer-components') => {
+const prefixKeys = (obj, prefix = 'stripes-inventory-components') => {
   const res = {};
 
   for (const key of Object.keys(obj)) {

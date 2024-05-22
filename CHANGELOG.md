@@ -2,4 +2,5 @@
 
 ## 1.0.0 IN PROGRESS
 
-* Prepare the module for use. Refs UISINVCOMP-1.
+- [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.
+- [UISINVCOMP-4](https://issues.folio.org/browse/UISINVCOMP-4) Move AdvancedSearch utility to stripes-inventory-components module.

@@ -3,5 +3,7 @@
   "noMatchingOptions": "No matching options",
   "showMoreOptions": "Show more options",
   "more": "More",
-  "filters.tenantId": "Held by"
+  "filters.tenantId": "Held by",
+  "yes": "Yes",
+  "no": "No"
 }

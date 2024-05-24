@@ -2,17 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { noop } from 'lodash';
 import { IntlProvider } from 'react-intl';
-import {
-  QueryClientProvider,
-  QueryClient,
-} from 'react-query';
-
 import { CalloutContext } from '@folio/stripes/core';
 
 import translations from '../../../translations/stripes-inventory-components/en';
 import prefixKeys from './prefixKeys';
-
-const client = new QueryClient();
 
 const Harness = ({
   children,
@@ -31,21 +24,19 @@ const Harness = ({
   }, {});
 
   return (
-    <QueryClientProvider client={client}>
-      <CalloutContext.Provider value={{ sendCallout: () => { } }}>
-        <IntlProvider
-          locale="en"
-          key="en"
-          timeZone="UTC"
-          onWarn={noop}
-          onError={noop}
-          defaultRichTextElements={defaultRichTextElements}
-          messages={allTranslations}
-        >
-          {children}
-        </IntlProvider>
-      </CalloutContext.Provider>
-    </QueryClientProvider>
+    <CalloutContext.Provider value={{ sendCallout: () => { } }}>
+      <IntlProvider
+        locale="en"
+        key="en"
+        timeZone="UTC"
+        onWarn={noop}
+        onError={noop}
+        defaultRichTextElements={defaultRichTextElements}
+        messages={allTranslations}
+      >
+        {children}
+      </IntlProvider>
+    </CalloutContext.Provider>
   );
 };
 

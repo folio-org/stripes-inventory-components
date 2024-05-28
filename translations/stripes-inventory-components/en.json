@@ -3,7 +3,6 @@
   "noMatchingOptions": "No matching options",
   "showMoreOptions": "Show more options",
   "more": "More",
-  "filters.tenantId": "Held by",
   "yes": "Yes",
   "no": "No",
   "createdDate": "Date created",
@@ -11,5 +10,12 @@
   "itemsCreatedDate": "Date created",
   "itemsUpdatedDate": "Date updated",
   "holdingsCreatedDate": "Date created",
-  "holdingsUpdatedDate": "Date updated"
+  "holdingsUpdatedDate": "Date updated",
+  "facet.instanceStatus": "Instance status",
+  "facet.itemStatus": "Item status",
+  "facet.instances.resourceType": "Resource Type",
+  "facet.shared": "Shared",
+  "facet.language": "Language",
+  "facet.effectiveLocation": "Effective location (item)",
+  "facet.tenantId": "Held by"
 }

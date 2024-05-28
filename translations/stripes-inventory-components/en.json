@@ -17,5 +17,6 @@
   "facet.shared": "Shared",
   "facet.language": "Language",
   "facet.effectiveLocation": "Effective location (item)",
-  "facet.tenantId": "Held by"
+  "facet.tenantId": "Held by",
+  "facet.tags": "Tags"
 }

@@ -22,5 +22,6 @@
   "facet.source": "Source",
   "facet.format": "Format",
   "facet.modeOfIssuance": "Mode of issuance",
-  "facet.natureOfContentTerms": "Nature of content"
+  "facet.natureOfContentTerms": "Nature of content",
+  "facet.staffSuppress": "Staff suppress"
 }

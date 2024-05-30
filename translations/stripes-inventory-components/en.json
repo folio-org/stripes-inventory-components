@@ -26,5 +26,7 @@
   "facet.staffSuppress": "Staff suppress",
   "facet.discoverySuppress": "Suppress from discovery",
   "facet.statisticalCode": "Statistical code",
-  "facet.holdingsPermanentLocation": "Holdings permanent location"
+  "facet.holdingsPermanentLocation": "Holdings permanent location",
+  "facet.holdingsType": "Holdings type",
+  "facet.materialType": "Material type"
 }

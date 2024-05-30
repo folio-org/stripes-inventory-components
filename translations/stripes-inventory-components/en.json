@@ -23,5 +23,6 @@
   "facet.format": "Format",
   "facet.modeOfIssuance": "Mode of issuance",
   "facet.natureOfContentTerms": "Nature of content",
-  "facet.staffSuppress": "Staff suppress"
+  "facet.staffSuppress": "Staff suppress",
+  "facet.discoverySuppress": "Suppress from discovery"
 }

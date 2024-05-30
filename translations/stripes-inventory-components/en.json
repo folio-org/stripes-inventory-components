@@ -20,5 +20,7 @@
   "facet.tenantId": "Held by",
   "facet.tags": "Tags",
   "facet.source": "Source",
-  "facet.format": "Format"
+  "facet.format": "Format",
+  "facet.modeOfIssuance": "Mode of issuance",
+  "facet.natureOfContentTerms": "Nature of content"
 }

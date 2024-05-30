@@ -25,5 +25,6 @@
   "facet.natureOfContentTerms": "Nature of content",
   "facet.staffSuppress": "Staff suppress",
   "facet.discoverySuppress": "Suppress from discovery",
-  "facet.statisticalCode": "Statistical code"
+  "facet.statisticalCode": "Statistical code",
+  "facet.holdingsPermanentLocation": "Holdings permanent location"
 }

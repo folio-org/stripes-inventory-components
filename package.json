@@ -42,7 +42,6 @@
     "@folio/stripes-acq-components": "~5.1.1",
     "history": "^4.10.0",
     "lodash": "^4.17.4",
-    "moment": "~2.29.4",
     "prop-types": "^15.5.10",
     "zustand": "^4.1.1"
   },
@@ -53,8 +52,5 @@
     "react-query": "^3.6.0",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1"
-  },
-  "resolutions": {
-    "moment": "~2.29.4"
   }
 }

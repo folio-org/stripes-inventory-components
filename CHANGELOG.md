@@ -9,3 +9,4 @@
 - [UISINVCOMP-6](https://issues.folio.org/browse/UISINVCOMP-6) Don't add `typeId` param to facets when Classification Browse doesn't have assigned types
 - [UISINVCOMP-3](https://issues.folio.org/browse/UISINVCOMP-3) Replace `moment` library with `dayjs` for the `DateRange` filter.
 - [UISINVCOMP-7](https://issues.folio.org/browse/UISINVCOMP-7) Add `buildSearchQuery` compatible with `ui-inventory` and `ui-plugin-find-instance`; add filter components.
+- [UISINVCOMP-8](https://issues.folio.org/browse/UISINVCOMP-8) Provide tenant name in parentheses for locations if location name is not unique.

@@ -103,6 +103,7 @@ const mockStripesCore = {
   IfInterface: jest.fn(props => <>{props.children}</>),
 
   useNamespace: () => ['@folio/inventory'],
+  withNamespace: (Component) => props => <Component {...props} namespace="@folio/inventory" />,
 
   TitleManager: ({ children }) => <>{children}</>,
 

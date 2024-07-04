@@ -11,3 +11,4 @@
 - [UISINVCOMP-7](https://issues.folio.org/browse/UISINVCOMP-7) Add `buildSearchQuery` compatible with `ui-inventory` and `ui-plugin-find-instance`; add filter components.
 - [UISINVCOMP-8](https://issues.folio.org/browse/UISINVCOMP-8) Provide tenant name in parentheses for locations if location name is not unique.
 - [UISINVCOMP-9](https://issues.folio.org/browse/UISINVCOMP-9) Use consolidated locations endpoint in member tenants.
+- [UISINVCOMP-10](https://issues.folio.org/browse/UISINVCOMP-10) Add "Place of publication" search option.

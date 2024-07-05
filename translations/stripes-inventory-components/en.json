@@ -40,6 +40,7 @@
   "search.oclc": "OCLC number, normalized",
   "search.instanceNotes": "Instance notes (all)",
   "search.instanceAdministrativeNotes": "Instance administrative notes",
+  "search.placeOfPublication": "Place of publication",
   "search.subject": "Subject",
   "search.effectiveCallNumberShelving": "Effective call number (item), shelving order",
   "search.instanceHrid": "Instance HRID",

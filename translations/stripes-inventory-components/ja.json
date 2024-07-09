@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Order closed",
     "item.status.unavailable": "利用不可",
     "item.status.unknown": "不明",
-    "item.status.withdrawn": "Withdrawn"
+    "item.status.withdrawn": "Withdrawn",
+    "search.placeOfPublication": "出版地"
 }

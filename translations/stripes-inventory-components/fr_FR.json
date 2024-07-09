@@ -1,5 +1,5 @@
 {
-    "meta.title": "Inventaire / catalogue",
+    "meta.title": "Catalogue",
     "noMatchingOptions": "Aucune option correspondante",
     "showMoreOptions": "Afficher plus d'options",
     "more": "Suite",
@@ -79,8 +79,9 @@
     "item.status.onOrder": "En commande",
     "item.status.paged": "Réservé",
     "item.status.restricted": "Restreint",
-    "item.status.orderClosed": "Commande fermée",
+    "item.status.orderClosed": "Commande close",
     "item.status.unavailable": "Indisponible",
     "item.status.unknown": "Inconnu",
-    "item.status.withdrawn": "Retiré"
+    "item.status.withdrawn": "Retiré",
+    "search.placeOfPublication": "Lieu de publication"
 }

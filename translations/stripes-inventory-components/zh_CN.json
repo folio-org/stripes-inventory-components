@@ -82,5 +82,6 @@
     "item.status.orderClosed": "订单已关闭",
     "item.status.unavailable": "不可用",
     "item.status.unknown": "未知",
-    "item.status.withdrawn": "已剔除"
+    "item.status.withdrawn": "已剔除",
+    "search.placeOfPublication": "出版地"
 }

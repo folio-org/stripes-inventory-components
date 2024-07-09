@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Заказ закрыт",
     "item.status.unavailable": "Недоступный",
     "item.status.unknown": "Неизвестно",
-    "item.status.withdrawn": "Изъятый из обращения"
+    "item.status.withdrawn": "Изъятый из обращения",
+    "search.placeOfPublication": "Место публикации"
 }

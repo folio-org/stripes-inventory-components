@@ -13,3 +13,4 @@
 - [UISINVCOMP-9](https://issues.folio.org/browse/UISINVCOMP-9) Use consolidated locations endpoint in member tenants.
 - [UISINVCOMP-10](https://issues.folio.org/browse/UISINVCOMP-10) Add "Place of publication" search option.
 - [UISINVCOMP-11](https://issues.folio.org/browse/UISINVCOMP-11) Add "Place of publication" search option to Advanced Search.
+- [UISINVCOMP-12](https://issues.folio.org/browse/UISINVCOMP-12) Add `holdingsId` to the `holdingIndexes` to display the `Holdings UUID` search option.

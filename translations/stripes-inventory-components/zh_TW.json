@@ -82,5 +82,6 @@
     "item.status.orderClosed": "訂單已關閉",
     "item.status.unavailable": "不可用",
     "item.status.unknown": "未知",
-    "item.status.withdrawn": "註銷"
+    "item.status.withdrawn": "註銷",
+    "search.placeOfPublication": "出版地"
 }

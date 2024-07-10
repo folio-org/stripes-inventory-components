@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Objednávka uzavřena",
     "item.status.unavailable": "Nedostupný",
     "item.status.unknown": "Neznámý",
-    "item.status.withdrawn": "Staženo"
+    "item.status.withdrawn": "Staženo",
+    "search.placeOfPublication": "Místo publikace"
 }

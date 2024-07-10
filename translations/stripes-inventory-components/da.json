@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Order closed",
     "item.status.unavailable": "Ikke tilgængelig",
     "item.status.unknown": "Ukendt",
-    "item.status.withdrawn": "Kasseret"
+    "item.status.withdrawn": "Kasseret",
+    "search.placeOfPublication": "Place of publication"
 }

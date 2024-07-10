@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Zamówienie zamknięte",
     "item.status.unavailable": "Niedostępny",
     "item.status.unknown": "Nieznany",
-    "item.status.withdrawn": "Wycofany"
+    "item.status.withdrawn": "Wycofany",
+    "search.placeOfPublication": "Miejsce publikacji"
 }

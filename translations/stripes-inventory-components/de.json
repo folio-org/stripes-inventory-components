@@ -82,5 +82,6 @@
     "item.status.orderClosed": "Bestellung abgeschlossen",
     "item.status.unavailable": "Nicht verfügbar",
     "item.status.unknown": "Unbekannt",
-    "item.status.withdrawn": "Ausgesondert"
+    "item.status.withdrawn": "Ausgesondert",
+    "search.placeOfPublication": "Erscheinungsort"
 }

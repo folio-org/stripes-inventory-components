@@ -82,5 +82,6 @@
     "item.status.orderClosed": "تم إغلاق الطلبية",
     "item.status.unavailable": "غير متاحة",
     "item.status.unknown": "غير معروف",
-    "item.status.withdrawn": "مسحوبة"
+    "item.status.withdrawn": "مسحوبة",
+    "search.placeOfPublication": "مكان النشر"
 }

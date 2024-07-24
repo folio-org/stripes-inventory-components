@@ -17,6 +17,7 @@ const client = new QueryClient();
 const Harness = ({
   children,
   translations: translationsConfig,
+  sendCallout = noop,
 }) => {
   const allTranslations = prefixKeys(translations);
 
@@ -32,7 +33,7 @@ const Harness = ({
 
   return (
     <QueryClientProvider client={client}>
-      <CalloutContext.Provider value={{ sendCallout: () => { } }}>
+      <CalloutContext.Provider value={{ sendCallout }}>
         <IntlProvider
           locale="en"
           key="en"

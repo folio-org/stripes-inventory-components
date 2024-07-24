@@ -29,6 +29,7 @@ jest.mock('@folio/stripes/smart-components', () => ({
         'description': 'Storage B description'
       }
     });
-  }
+  },
+  REQUEST_URL_LIMIT: 130, // cut down limit for simplicity
 }), { virtual: true });
 

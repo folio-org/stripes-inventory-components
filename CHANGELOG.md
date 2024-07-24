@@ -14,3 +14,4 @@
 - [UISINVCOMP-10](https://issues.folio.org/browse/UISINVCOMP-10) Add "Place of publication" search option.
 - [UISINVCOMP-11](https://issues.folio.org/browse/UISINVCOMP-11) Add "Place of publication" search option to Advanced Search.
 - [UISINVCOMP-12](https://issues.folio.org/browse/UISINVCOMP-12) Add `holdingsId` to the `holdingIndexes` to display the `Holdings UUID` search option.
+- [UISINVCOMP-14](https://issues.folio.org/browse/UISINVCOMP-14) Fix operators for Advanced Search Contributors search.

@@ -14,4 +14,6 @@
 - [UISINVCOMP-10](https://issues.folio.org/browse/UISINVCOMP-10) Add "Place of publication" search option.
 - [UISINVCOMP-11](https://issues.folio.org/browse/UISINVCOMP-11) Add "Place of publication" search option to Advanced Search.
 - [UISINVCOMP-12](https://issues.folio.org/browse/UISINVCOMP-12) Add `holdingsId` to the `holdingIndexes` to display the `Holdings UUID` search option.
+- [UISINVCOMP-12](https://issues.folio.org/browse/UISINVCOMP-13) Add `withSearchErrors` to display error messages related to exceeding the request URL limit.
+- [UISINVCOMP-15](https://folio-org.atlassian.net/browse/UISINVCOMP-15) ECS - Accept `tenantId` prop to search entries in the specified tenant for supporting `ui-plugin-find-instance` plugin.
 - [UISINVCOMP-14](https://issues.folio.org/browse/UISINVCOMP-14) Fix operators for Advanced Search Contributors search.

@@ -18,3 +18,4 @@
 - [UISINVCOMP-15](https://folio-org.atlassian.net/browse/UISINVCOMP-15) ECS - Accept `tenantId` prop to search entries in the specified tenant for supporting `ui-plugin-find-instance` plugin.
 - [UISINVCOMP-14](https://issues.folio.org/browse/UISINVCOMP-14) Fix operators for Advanced Search Contributors search.
 - [UISINVCOMP-16](https://issues.folio.org/browse/UISINVCOMP-16) Add search segment change handling.
+- [UISINVCOMP-17](https://issues.folio.org/browse/UISINVCOMP-17) Create `useDisplaySettingsQuery` and add it to the `useCommonData` hook.

@@ -7,8 +7,11 @@
   "stripes": {
     "actsAs": [
       ""
-    ]
-  },
+    ],
+    "optionalOkapiInterfaces": {
+      "settings": "1.0"
+    }
+  },  
   "scripts": {
     "lint": "eslint .",
     "test": "yarn run test:unit",

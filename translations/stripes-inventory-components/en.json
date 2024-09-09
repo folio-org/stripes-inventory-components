@@ -83,5 +83,9 @@
   "item.status.orderClosed": "Order closed",
   "item.status.unavailable": "Unavailable",
   "item.status.unknown": "Unknown",
-  "item.status.withdrawn": "Withdrawn"
+  "item.status.withdrawn": "Withdrawn",
+  "instances.columns.title": "Title",
+  "instances.columns.contributors": "Contributors",
+  "instances.columns.publishers": "Publishers",
+  "instances.columns.date": "Date"
 }

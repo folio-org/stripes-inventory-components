@@ -64,7 +64,7 @@
     "search.advancedSearch": "Erweiterte Suche",
     "item.status.agedToLost": "Automatisch für verloren erklärt",
     "item.status.available": "Verfügbar",
-    "item.status.awaitingPickup": "Im Abholregal",
+    "item.status.awaitingPickup": "Abholbereit",
     "item.status.awaitingDelivery": "Warten auf Lieferung",
     "item.status.checkedOut": "Ausgeliehen",
     "item.status.claimedReturned": "Angeblich zurückgegeben",

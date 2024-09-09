@@ -8,7 +8,8 @@
     "actsAs": [
       ""
     ],
-    "optionalOkapiInterfaces": {
+    "okapiInterfaces": {
+      "instance-date-types": "1.0",
       "settings": "1.0"
     }
   },  

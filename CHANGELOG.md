@@ -23,3 +23,4 @@
 - [UISINVCOMP-18](https://issues.folio.org/browse/UISINVCOMP-18) Add search results list constants.
 - [UISINVCOMP-20](https://issues.folio.org/browse/UISINVCOMP-20) Make date range filters work with just a single from/to date
 - [UISINVCOMP-21](https://issues.folio.org/browse/UISINVCOMP-21) Add Date constants.
+- [UISINVCOMP-22](https://issues.folio.org/browse/UISINVCOMP-22) Add "Date range" filter.

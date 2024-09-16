@@ -22,3 +22,4 @@
 - [UISINVCOMP-19](https://issues.folio.org/browse/UISINVCOMP-19) Create `useInstanceDateTypes` and add it to the `useCommonData` hook.
 - [UISINVCOMP-18](https://issues.folio.org/browse/UISINVCOMP-18) Add search results list constants.
 - [UISINVCOMP-20](https://issues.folio.org/browse/UISINVCOMP-20) Make date range filters work with just a single from/to date
+- [UISINVCOMP-21](https://issues.folio.org/browse/UISINVCOMP-21) Add Date constants.

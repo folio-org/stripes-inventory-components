@@ -24,4 +24,4 @@
 - [UISINVCOMP-20](https://issues.folio.org/browse/UISINVCOMP-20) Make date range filters work with just a single from/to date
 - [UISINVCOMP-21](https://issues.folio.org/browse/UISINVCOMP-21) Add Date constants.
 - [UISINVCOMP-22](https://issues.folio.org/browse/UISINVCOMP-22) Add "Date range" filter.
-- [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) Replace certain facets UX with MultiSelection component.
+- [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.

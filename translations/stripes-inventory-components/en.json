@@ -30,6 +30,7 @@
   "facet.holdingsPermanentLocation": "Holdings permanent location",
   "facet.holdingsType": "Holdings type",
   "facet.materialType": "Material type",
+  "facet.nameType": "Name type",
   "search.keyword": "Keyword (title, contributor, identifier, HRID, UUID)",
   "search.contributor": "Contributor",
   "search.title": "Title (all)",

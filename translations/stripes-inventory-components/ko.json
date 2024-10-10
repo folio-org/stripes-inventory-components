@@ -83,5 +83,10 @@
     "item.status.unavailable": "사용불가",
     "item.status.unknown": "알 수 없음",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "출판 장소"
+    "search.placeOfPublication": "출판 장소",
+    "instances.columns.title": "타이틀",
+    "instances.columns.contributors": "저자",
+    "instances.columns.publishers": "출판사",
+    "instances.columns.date": "날짜",
+    "dateRange": "날짜 범위"
 }

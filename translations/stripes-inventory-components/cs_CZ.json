@@ -83,5 +83,10 @@
     "item.status.unavailable": "Nedostupný",
     "item.status.unknown": "Neznámý",
     "item.status.withdrawn": "Staženo",
-    "search.placeOfPublication": "Místo publikace"
+    "search.placeOfPublication": "Místo publikace",
+    "instances.columns.title": "Název",
+    "instances.columns.contributors": "Autoři",
+    "instances.columns.publishers": "Vydavatelé",
+    "instances.columns.date": "Datum",
+    "dateRange": "Datumový interval"
 }

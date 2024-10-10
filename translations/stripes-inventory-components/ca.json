@@ -83,5 +83,10 @@
     "item.status.unavailable": "Unavailable",
     "item.status.unknown": "Desconegut",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "Place of publication"
+    "search.placeOfPublication": "Place of publication",
+    "instances.columns.title": "Títol",
+    "instances.columns.contributors": "Col·laboradors",
+    "instances.columns.publishers": "Publishers",
+    "instances.columns.date": "Data",
+    "dateRange": "Date range"
 }

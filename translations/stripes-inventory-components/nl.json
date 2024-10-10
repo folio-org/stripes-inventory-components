@@ -83,5 +83,10 @@
     "item.status.unavailable": "Niet beschikbaar",
     "item.status.unknown": "Onbekend",
     "item.status.withdrawn": "Ingetrokken",
-    "search.placeOfPublication": "Plaats van publicatie"
+    "search.placeOfPublication": "Plaats van publicatie",
+    "instances.columns.title": "Titel",
+    "instances.columns.contributors": "Medewerkers",
+    "instances.columns.publishers": "Uitgevers",
+    "instances.columns.date": "Datum",
+    "dateRange": "Datumbereik"
 }

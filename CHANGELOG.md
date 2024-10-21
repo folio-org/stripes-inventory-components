@@ -27,3 +27,4 @@
 - [UISINVCOMP-27](https://issues.folio.org/browse/UISINVCOMP-27) Fix failed unit tests.
 - [UISINVCOMP-26](https://issues.folio.org/browse/UISINVCOMP-26) Add filters for subject source and type to Inventory subject browse.
 - [UISINVCOMP-28](https://issues.folio.org/browse/UISINVCOMP-28) Date filters: Clear dates after pressing the reset search button.
+- [UISINVCOMP-29](https://issues.folio.org/browse/UISINVCOMP-29) Fix `<DateRangeFilter>` validation errors disappear when another facet value changes.

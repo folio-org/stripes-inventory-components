@@ -83,5 +83,10 @@
     "item.status.unavailable": "不可用",
     "item.status.unknown": "未知",
     "item.status.withdrawn": "已剔除",
-    "search.placeOfPublication": "出版地"
+    "search.placeOfPublication": "出版地",
+    "instances.columns.title": "题名",
+    "instances.columns.contributors": "责任者",
+    "instances.columns.publishers": "出版者",
+    "instances.columns.date": "日期",
+    "dateRange": "日期范围"
 }

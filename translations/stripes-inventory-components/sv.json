@@ -83,5 +83,10 @@
     "item.status.unavailable": "Unavailable",
     "item.status.unknown": "Okänd",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "Place of publication"
+    "search.placeOfPublication": "Place of publication",
+    "instances.columns.title": "Titel",
+    "instances.columns.contributors": "Övriga upphovsmän",
+    "instances.columns.publishers": "Publishers",
+    "instances.columns.date": "Datum",
+    "dateRange": "Date range"
 }

@@ -29,7 +29,7 @@
     "facet.holdingsPermanentLocation": "所蔵通常所在",
     "facet.holdingsType": "所蔵タイプ",
     "facet.materialType": "資料種別",
-    "search.keyword": "Keyword (title, contributor, identifier, HRID, UUID)",
+    "search.keyword": "キーワード (タイトル、投稿者、ID、HRID、UUID)",
     "search.contributor": "寄与者",
     "search.title": "タイトル（すべて）",
     "search.identifierAll": "ID（全て）",
@@ -83,5 +83,10 @@
     "item.status.unavailable": "利用不可",
     "item.status.unknown": "不明",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "出版地"
+    "search.placeOfPublication": "出版地",
+    "instances.columns.title": "タイトル",
+    "instances.columns.contributors": "寄与者",
+    "instances.columns.publishers": "出版者",
+    "instances.columns.date": "日付",
+    "dateRange": "日付の範囲"
 }

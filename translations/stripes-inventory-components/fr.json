@@ -83,5 +83,10 @@
     "item.status.unavailable": "Unavailable",
     "item.status.unknown": "Inconnue",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "Place of publication"
+    "search.placeOfPublication": "Place of publication",
+    "instances.columns.title": "Titre",
+    "instances.columns.contributors": "Contributeurs",
+    "instances.columns.publishers": "Publishers",
+    "instances.columns.date": "Date",
+    "dateRange": "Date range"
 }

@@ -83,5 +83,10 @@
     "item.status.unavailable": "Недоступный",
     "item.status.unknown": "Неизвестно",
     "item.status.withdrawn": "Изъятый из обращения",
-    "search.placeOfPublication": "Место публикации"
+    "search.placeOfPublication": "Место публикации",
+    "instances.columns.title": "Заглавие",
+    "instances.columns.contributors": "Авторы",
+    "instances.columns.publishers": "Издатели",
+    "instances.columns.date": "Дата",
+    "dateRange": "Интервал дат"
 }

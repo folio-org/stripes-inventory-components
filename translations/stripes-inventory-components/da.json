@@ -83,5 +83,10 @@
     "item.status.unavailable": "Ikke tilgængelig",
     "item.status.unknown": "Ukendt",
     "item.status.withdrawn": "Kasseret",
-    "search.placeOfPublication": "Place of publication"
+    "search.placeOfPublication": "Place of publication",
+    "instances.columns.title": "Titel",
+    "instances.columns.contributors": "Bidragere",
+    "instances.columns.publishers": "Publishers",
+    "instances.columns.date": "Dato",
+    "dateRange": "Date range"
 }

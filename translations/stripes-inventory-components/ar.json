@@ -83,5 +83,10 @@
     "item.status.unavailable": "غير متاحة",
     "item.status.unknown": "غير معروف",
     "item.status.withdrawn": "مسحوبة",
-    "search.placeOfPublication": "مكان النشر"
+    "search.placeOfPublication": "مكان النشر",
+    "instances.columns.title": "العنوان",
+    "instances.columns.contributors": "المساهمون",
+    "instances.columns.publishers": "الناشرون",
+    "instances.columns.date": "التاريخ",
+    "dateRange": "نطاق التاريخ"
 }

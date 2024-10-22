@@ -83,5 +83,10 @@
     "item.status.unavailable": "No disponible",
     "item.status.unknown": "Desconocido",
     "item.status.withdrawn": "Retirada",
-    "search.placeOfPublication": "Lugar de publicación"
+    "search.placeOfPublication": "Lugar de publicación",
+    "instances.columns.title": "Título",
+    "instances.columns.contributors": "Colaboradores",
+    "instances.columns.publishers": "Editores",
+    "instances.columns.date": "Fecha",
+    "dateRange": "Rango de fecha"
 }

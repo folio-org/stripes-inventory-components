@@ -1,9 +1,5 @@
 # Change history for stripes-inventory-components
 
-## 1.0.1 IN PROGRESS
-
-- [UISINVCOMP-34](https://folio-org.atlassian.net/browse/UISINVCOMP-34) Get all locations in useCommonData hook when user is in consortium mode.
-
 ## 1.0.0 IN PROGRESS
 
 - [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.
@@ -34,3 +30,4 @@
 - [UISINVCOMP-29](https://issues.folio.org/browse/UISINVCOMP-29) Fix `<DateRangeFilter>` validation errors disappear when another facet value changes.
 - [UISINVCOMP-32](https://folio-org.atlassian.net/browse/UISINVCOMP-32) Suppress "Shared" facet when user moves holdings/items to another instance.
 - [UISINVCOMP-30](https://issues.folio.org/browse/UISINVCOMP-30) Refactor ui-inventory permissions.
+- [UISINVCOMP-34](https://folio-org.atlassian.net/browse/UISINVCOMP-34) Get all locations in useCommonData hook when user is in consortium mode.

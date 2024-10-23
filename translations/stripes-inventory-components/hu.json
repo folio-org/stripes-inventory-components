@@ -83,5 +83,10 @@
     "item.status.unavailable": "Unavailable",
     "item.status.unknown": "Ismeretlen",
     "item.status.withdrawn": "Withdrawn",
-    "search.placeOfPublication": "Place of publication"
+    "search.placeOfPublication": "Place of publication",
+    "instances.columns.title": "Cím",
+    "instances.columns.contributors": "Közreműködők",
+    "instances.columns.publishers": "Kiadók",
+    "instances.columns.date": "Dátum",
+    "dateRange": "Dátumtartomány"
 }

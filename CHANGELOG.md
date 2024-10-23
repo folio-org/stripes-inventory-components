@@ -30,3 +30,4 @@
 - [UISINVCOMP-29](https://issues.folio.org/browse/UISINVCOMP-29) Fix `<DateRangeFilter>` validation errors disappear when another facet value changes.
 - [UISINVCOMP-32](https://folio-org.atlassian.net/browse/UISINVCOMP-32) Suppress "Shared" facet when user moves holdings/items to another instance.
 - [UISINVCOMP-30](https://issues.folio.org/browse/UISINVCOMP-30) Refactor ui-inventory permissions.
+- [UISINVCOMP-34](https://folio-org.atlassian.net/browse/UISINVCOMP-34) Get all locations in useCommonData hook when user is in consortium mode.

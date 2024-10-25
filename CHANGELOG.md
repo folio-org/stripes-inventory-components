@@ -31,3 +31,4 @@
 - [UISINVCOMP-32](https://folio-org.atlassian.net/browse/UISINVCOMP-32) Suppress "Shared" facet when user moves holdings/items to another instance.
 - [UISINVCOMP-30](https://issues.folio.org/browse/UISINVCOMP-30) Refactor ui-inventory permissions.
 - [UISINVCOMP-37](https://issues.folio.org/browse/UISINVCOMP-37) Browse | Number of titles in Subject browse results does not match the number of instances returned in search.
+- [UISINVCOMP-33](https://folio-org.atlassian.net/browse/UISINVCOMP-33) If a query template is undefined - return null and don't perform a request.

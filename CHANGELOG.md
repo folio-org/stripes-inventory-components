@@ -1,6 +1,10 @@
 # Change history for stripes-inventory-components
 
-## 1.0.0 IN PROGRESS
+## 2.0.0 IN PROGRESS
+
+- [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
+
+## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)
 
 - [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.
 - [UISINVCOMP-4](https://issues.folio.org/browse/UISINVCOMP-4) Move AdvancedSearch utility to stripes-inventory-components module.
@@ -24,4 +28,13 @@
 - [UISINVCOMP-20](https://issues.folio.org/browse/UISINVCOMP-20) Make date range filters work with just a single from/to date
 - [UISINVCOMP-21](https://issues.folio.org/browse/UISINVCOMP-21) Add Date constants.
 - [UISINVCOMP-22](https://issues.folio.org/browse/UISINVCOMP-22) Add "Date range" filter.
-- [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
+- [UISINVCOMP-27](https://issues.folio.org/browse/UISINVCOMP-27) Fix failed unit tests.
+- [UISINVCOMP-26](https://issues.folio.org/browse/UISINVCOMP-26) Add filters for subject source and type to Inventory subject browse.
+- [UISINVCOMP-28](https://issues.folio.org/browse/UISINVCOMP-28) Date filters: Clear dates after pressing the reset search button.
+- [UISINVCOMP-29](https://issues.folio.org/browse/UISINVCOMP-29) Fix `<DateRangeFilter>` validation errors disappear when another facet value changes.
+- [UISINVCOMP-32](https://folio-org.atlassian.net/browse/UISINVCOMP-32) Suppress "Shared" facet when user moves holdings/items to another instance.
+- [UISINVCOMP-30](https://issues.folio.org/browse/UISINVCOMP-30) Refactor ui-inventory permissions.
+- [UISINVCOMP-37](https://issues.folio.org/browse/UISINVCOMP-37) Browse | Number of titles in Subject browse results does not match the number of instances returned in search.
+- [UISINVCOMP-33](https://folio-org.atlassian.net/browse/UISINVCOMP-33) If a query template is undefined - return null and don't perform a request.
+- [UISINVCOMP-36](https://issues.folio.org/browse/UISINVCOMP-36) Escape advanced search query.
+- [UISINVCOMP-39](https://issues.folio.org/browse/UISINVCOMP-39) Rename ui-inventory.display-settings settings scope name.

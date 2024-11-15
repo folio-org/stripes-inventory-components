@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## 2.0.0 IN PROGRESS
+
+- [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
+
 ## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)
 
 - [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.

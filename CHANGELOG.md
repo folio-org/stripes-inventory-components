@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [1.0.1] (IN PROGRESS)
+
+- [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Add `qindex` to `queryKey` for `useQuery` facets to avoid getting the cached value for different search options.
+
 ## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)
 
 - [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.

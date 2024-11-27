@@ -2,6 +2,7 @@
 
 ## [1.0.1] (IN PROGRESS)
 
+- [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Add `qindex` to `queryKey` for `useQuery` facets to avoid getting the cached value for different search options.
 - [UISINVCOMP-42](https://issues.folio.org/browse/UISINVCOMP-42) Fetch all options for MultiSelect facets.
 
 ## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)

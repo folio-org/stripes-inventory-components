@@ -3,6 +3,7 @@
 ## 2.0.0 IN PROGRESS
 
 - [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
+- [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Reset `accordionsStatus` in `useFacets` for `Browse` search when `qindex` is changed.
 
 ## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)
 

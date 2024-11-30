@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Bidragere",
     "instances.columns.publishers": "Publishers",
     "instances.columns.date": "Dato",
-    "dateRange": "Date range"
+    "dateRange": "Date range",
+    "facet.nameType": "Name type"
 }

@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Mitwirkende",
     "instances.columns.publishers": "Verlage",
     "instances.columns.date": "Datum",
-    "dateRange": "Datumsbereich"
+    "dateRange": "Datumsbereich",
+    "facet.nameType": "Namenstyp"
 }

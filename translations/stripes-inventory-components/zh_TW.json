@@ -88,5 +88,6 @@
     "instances.columns.contributors": "投稿者",
     "instances.columns.publishers": "出版商",
     "instances.columns.date": "日期",
-    "dateRange": "日期範圍"
+    "dateRange": "日期範圍",
+    "facet.nameType": "名稱類型"
 }

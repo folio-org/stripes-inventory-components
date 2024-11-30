@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Medewerkers",
     "instances.columns.publishers": "Uitgevers",
     "instances.columns.date": "Datum",
-    "dateRange": "Datumbereik"
+    "dateRange": "Datumbereik",
+    "facet.nameType": "Type naam"
 }

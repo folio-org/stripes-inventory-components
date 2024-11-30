@@ -88,5 +88,6 @@
     "instances.columns.contributors": "المساهمون",
     "instances.columns.publishers": "الناشرون",
     "instances.columns.date": "التاريخ",
-    "dateRange": "نطاق التاريخ"
+    "dateRange": "نطاق التاريخ",
+    "facet.nameType": "نوع الاسم"
 }

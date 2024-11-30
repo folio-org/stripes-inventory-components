@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Contributeurs",
     "instances.columns.publishers": "Publishers",
     "instances.columns.date": "Date",
-    "dateRange": "Date range"
+    "dateRange": "Date range",
+    "facet.nameType": "Name type"
 }

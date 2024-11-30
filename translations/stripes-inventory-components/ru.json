@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Авторы",
     "instances.columns.publishers": "Издатели",
     "instances.columns.date": "Дата",
-    "dateRange": "Интервал дат"
+    "dateRange": "Интервал дат",
+    "facet.nameType": "Тип имени"
 }

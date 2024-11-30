@@ -88,5 +88,6 @@
     "instances.columns.contributors": "저자",
     "instances.columns.publishers": "출판사",
     "instances.columns.date": "날짜",
-    "dateRange": "날짜 범위"
+    "dateRange": "날짜 범위",
+    "facet.nameType": "이름 유형"
 }

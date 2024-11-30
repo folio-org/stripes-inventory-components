@@ -88,5 +88,6 @@
     "instances.columns.contributors": "תורמים",
     "instances.columns.publishers": "Publishers",
     "instances.columns.date": "תאריך",
-    "dateRange": "Date range"
+    "dateRange": "Date range",
+    "facet.nameType": "Name type"
 }

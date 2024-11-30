@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Colaboradores",
     "instances.columns.publishers": "Editores",
     "instances.columns.date": "Data",
-    "dateRange": "Intervalo de datas"
+    "dateRange": "Intervalo de datas",
+    "facet.nameType": "Name type"
 }

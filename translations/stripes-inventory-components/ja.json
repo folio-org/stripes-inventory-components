@@ -88,5 +88,6 @@
     "instances.columns.contributors": "寄与者",
     "instances.columns.publishers": "出版者",
     "instances.columns.date": "日付",
-    "dateRange": "日付の範囲"
+    "dateRange": "日付の範囲",
+    "facet.nameType": "名称タイプ"
 }

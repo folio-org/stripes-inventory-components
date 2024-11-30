@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Colaboradores",
     "instances.columns.publishers": "Editores",
     "instances.columns.date": "Fecha",
-    "dateRange": "Rango de fecha"
+    "dateRange": "Rango de fecha",
+    "facet.nameType": "Tipo de nombre"
 }

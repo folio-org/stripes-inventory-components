@@ -60,7 +60,7 @@
     "search.itemCirculationNotes": "Notas de circulação",
     "search.itemHrid": "Item HRID",
     "search.itemUuid": "UUID do exemplar",
-    "search.querySearch": "Pesquisa por comandos",
+    "search.querySearch": "Busca por comandos",
     "search.advancedSearch": "Busca avançada",
     "item.status.agedToLost": "Considerado perdido",
     "item.status.available": "Disponível",
@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Colaboradores",
     "instances.columns.publishers": "Editores",
     "instances.columns.date": "Data",
-    "dateRange": "Intervalo de datas"
+    "dateRange": "Intervalo de datas",
+    "facet.nameType": "Tipo de nome"
 }

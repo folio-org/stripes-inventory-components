@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Övriga upphovsmän",
     "instances.columns.publishers": "Publishers",
     "instances.columns.date": "Datum",
-    "dateRange": "Date range"
+    "dateRange": "Date range",
+    "facet.nameType": "Name type"
 }

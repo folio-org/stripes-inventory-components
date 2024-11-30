@@ -24,7 +24,7 @@
     "facet.modeOfIssuance": "Způsob vydání",
     "facet.natureOfContentTerms": "Povaha obsahu",
     "facet.staffSuppress": "Potlačení zaměstnanců",
-    "facet.discoverySuppress": "Potlačit z vyhledávání",
+    "facet.discoverySuppress": "Vyřadit z vyhledávání",
     "facet.statisticalCode": "Statistický kód",
     "facet.holdingsPermanentLocation": "Trvalá lokace holdingů",
     "facet.holdingsType": "Typ holdingu",
@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Autoři",
     "instances.columns.publishers": "Vydavatelé",
     "instances.columns.date": "Datum",
-    "dateRange": "Datumový interval"
+    "dateRange": "Datumový interval",
+    "facet.nameType": "Typ jména"
 }

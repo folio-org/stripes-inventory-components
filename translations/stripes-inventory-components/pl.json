@@ -24,7 +24,7 @@
     "facet.modeOfIssuance": "Tryb wydawania",
     "facet.natureOfContentTerms": "Forma zawartości",
     "facet.staffSuppress": "Ukryj przed personelem",
-    "facet.discoverySuppress": "Ukryty w katalogu WWW",
+    "facet.discoverySuppress": "Ukryte w katalogu WWW",
     "facet.statisticalCode": "Kod statystyczny",
     "facet.holdingsPermanentLocation": "Stała lokalizacja zasobu",
     "facet.holdingsType": "Typ zasobów",
@@ -85,8 +85,9 @@
     "item.status.withdrawn": "Wycofany",
     "search.placeOfPublication": "Miejsce publikacji",
     "instances.columns.title": "Tytuł",
-    "instances.columns.contributors": "Kolejni autorzy",
+    "instances.columns.contributors": "Współtwórcy",
     "instances.columns.publishers": "Wydawcy",
     "instances.columns.date": "Data",
-    "dateRange": "Zakres dat"
+    "dateRange": "Zakres dat",
+    "facet.nameType": "Rodzaj autora"
 }

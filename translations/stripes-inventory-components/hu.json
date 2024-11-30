@@ -88,5 +88,6 @@
     "instances.columns.contributors": "Közreműködők",
     "instances.columns.publishers": "Kiadók",
     "instances.columns.date": "Dátum",
-    "dateRange": "Dátumtartomány"
+    "dateRange": "Dátumtartomány",
+    "facet.nameType": "Name type"
 }

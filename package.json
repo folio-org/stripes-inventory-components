@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-inventory-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "license": "Apache-2.0",
@@ -12,7 +12,7 @@
       "instance-date-types": "1.0",
       "settings": "1.0"
     }
-  },  
+  },
   "scripts": {
     "lint": "eslint .",
     "test": "yarn run test:unit",

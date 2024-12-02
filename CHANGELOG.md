@@ -5,6 +5,11 @@
 - [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
 - [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Reset `accordionsStatus` in `useFacets` for `Browse` search when `qindex` is changed.
 
+## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
+
+- [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Add `qindex` to `queryKey` for `useQuery` facets to avoid getting the cached value for different search options.
+- [UISINVCOMP-42](https://issues.folio.org/browse/UISINVCOMP-42) Fetch all options for MultiSelect facets.
+
 ## [1.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.0) (2024-10-31)
 
 - [UISINVCOMP-1](https://issues.folio.org/browse/UISINVCOMP-1) Prepare the module for use.

@@ -4,6 +4,7 @@
 
 - [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
 - [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Reset `accordionsStatus` in `useFacets` for `Browse` search when `qindex` is changed.
+- [UISINVCOMP-47](https://issues.folio.org/browse/UISINVCOMP-47) Apply relevance sort to find instance plugin when selected as default in Display settings.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
 

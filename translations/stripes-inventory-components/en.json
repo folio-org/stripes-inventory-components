@@ -89,5 +89,6 @@
   "instances.columns.title": "Title",
   "instances.columns.contributors": "Contributors",
   "instances.columns.publishers": "Publishers",
-  "instances.columns.date": "Date"
+  "instances.columns.date": "Date",
+  "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

@@ -89,5 +89,6 @@
     "instances.columns.publishers": "Vydavatelé",
     "instances.columns.date": "Datum",
     "dateRange": "Datumový interval",
-    "facet.nameType": "Typ jména"
+    "facet.nameType": "Typ jména",
+    "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

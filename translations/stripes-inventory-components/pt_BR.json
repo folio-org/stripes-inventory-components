@@ -89,5 +89,6 @@
     "instances.columns.publishers": "Editores",
     "instances.columns.date": "Data",
     "dateRange": "Intervalo de datas",
-    "facet.nameType": "Tipo de nome"
+    "facet.nameType": "Tipo de nome",
+    "error.badRequest": "A busca não pôde ser processada. Verifique sua consulta e tente novamente."
 }

@@ -89,5 +89,6 @@
     "instances.columns.publishers": "Verlage",
     "instances.columns.date": "Datum",
     "dateRange": "Datumsbereich",
-    "facet.nameType": "Namenstyp"
+    "facet.nameType": "Namenstyp",
+    "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

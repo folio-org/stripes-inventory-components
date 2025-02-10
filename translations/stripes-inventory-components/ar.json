@@ -89,5 +89,6 @@
     "instances.columns.publishers": "الناشرون",
     "instances.columns.date": "التاريخ",
     "dateRange": "نطاق التاريخ",
-    "facet.nameType": "نوع الاسم"
+    "facet.nameType": "نوع الاسم",
+    "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

@@ -89,5 +89,6 @@
     "instances.columns.publishers": "出版商",
     "instances.columns.date": "日期",
     "dateRange": "日期範圍",
-    "facet.nameType": "名稱類型"
+    "facet.nameType": "名稱類型",
+    "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

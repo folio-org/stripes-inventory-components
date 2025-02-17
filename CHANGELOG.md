@@ -7,6 +7,8 @@
 - [UISINVCOMP-47](https://issues.folio.org/browse/UISINVCOMP-47) Apply relevance sort to find instance plugin when selected as default in Display settings.
 - [UISINVCOMP-43](https://issues.folio.org/browse/UISINVCOMP-43) Search/Facets: Display error toast message for 414 code and when request URL limit is exceeded.
 - [UISINVCOMP-48](https://issues.folio.org/browse/UISINVCOMP-48) *BREAKING* Update facets endpoint and params for Call Numbers browse facets.
+- [UISINVCOMP-51](https://issues.folio.org/browse/UISINVCOMP-51) *BREAKING* migrate react-intl to v7.
+- [UISINVCOMP-52](https://issues.folio.org/browse/UISINVCOMP-52) *BREAKING* migrate stripes dependencies to their Sunflower versions.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
 

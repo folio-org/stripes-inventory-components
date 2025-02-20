@@ -26,7 +26,7 @@
     "facet.staffSuppress": "工作人员越权",
     "facet.discoverySuppress": "在发现中隐藏",
     "facet.statisticalCode": "统计代码",
-    "facet.holdingsPermanentLocation": "馆藏永久位置",
+    "facet.holdingsPermanentLocation": "馆藏永久馆藏地",
     "facet.holdingsType": "馆藏类型",
     "facet.materialType": "材料类型",
     "search.keyword": "关键词（题名，贡献者，标识符，HRID，UUID）",
@@ -90,5 +90,5 @@
     "instances.columns.date": "日期",
     "dateRange": "日期范围",
     "facet.nameType": "名称类型",
-    "error.badRequest": "Search could not be processed. Please check your query and try again."
+    "error.badRequest": "无法处理搜索。请检查您的查询并重试。"
 }

@@ -14,10 +14,10 @@
     "facet.instanceStatus": "Status instancji",
     "facet.itemStatus": "Status egzemplarza",
     "facet.instances.resourceType": "Typ zasobu",
-    "facet.shared": "Shared",
+    "facet.shared": "Wspólny",
     "facet.language": "Język",
     "facet.effectiveLocation": "Aktualna lokalizacja (egzemplarz)",
-    "facet.tenantId": "Held by",
+    "facet.tenantId": "Trzymany przez",
     "facet.tags": "Tagi",
     "facet.source": "Źródło",
     "facet.format": "Format",
@@ -90,5 +90,5 @@
     "instances.columns.date": "Data",
     "dateRange": "Zakres dat",
     "facet.nameType": "Rodzaj autora",
-    "error.badRequest": "Search could not be processed. Please check your query and try again."
+    "error.badRequest": "Nie można przetworzyć wyszukiwania. Sprawdź zapytanie i spróbuj ponownie."
 }

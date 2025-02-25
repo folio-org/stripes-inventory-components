@@ -9,6 +9,7 @@
 - [UISINVCOMP-48](https://issues.folio.org/browse/UISINVCOMP-48) *BREAKING* Update facets endpoint and params for Call Numbers browse facets.
 - [UISINVCOMP-51](https://issues.folio.org/browse/UISINVCOMP-51) *BREAKING* migrate react-intl to v7.
 - [UISINVCOMP-52](https://issues.folio.org/browse/UISINVCOMP-52) *BREAKING* migrate stripes dependencies to their Sunflower versions.
+- [UISINVCOMP-56](https://issues.folio.org/browse/UISINVCOMP-56) Change the value of the `facet` query parameter for the `Shared` and `Held by` facets for call numbers.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
 

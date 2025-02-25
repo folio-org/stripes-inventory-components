@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [1.0.2] (IN PROGRESS)
+
+- [UISINVCOMP-48](https://issues.folio.org/browse/UISINVCOMP-55) Use the new call number browse functionality only if 1.5 `browse` interface is available, otherwise the old one.
+
 ## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
 
 - [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Add `qindex` to `queryKey` for `useQuery` facets to avoid getting the cached value for different search options.

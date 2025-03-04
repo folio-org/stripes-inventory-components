@@ -1,8 +1,8 @@
 # Change history for stripes-inventory-components
 
-## [1.0.2] (IN PROGRESS)
+## [1.0.2] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.2) (2024-03-04)
 
-- [UISINVCOMP-48](https://issues.folio.org/browse/UISINVCOMP-55) Call Number Browse refactor - backport to Ramsons.
+- [UISINVCOMP-55](https://issues.folio.org/browse/UISINVCOMP-55) Call Number Browse refactor - backport to Ramsons.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v1.0.1) (2024-12-02)
 

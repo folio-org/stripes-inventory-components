@@ -1,6 +1,6 @@
 # Change history for stripes-inventory-components
 
-## 2.0.0 IN PROGRESS
+## 2.0.0 (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.0) (2024-03-13)
 
 - [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
 - [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Reset `accordionsStatus` in `useFacets` for `Browse` search when `qindex` is changed.

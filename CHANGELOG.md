@@ -1,6 +1,10 @@
 # Change history for stripes-inventory-components
 
-## 2.0.0 (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.0) (2025-03-13)
+## [2.1.0] (IN PROGRESS)
+
+- [UISINVCOMP-59](https://issues.folio.org/browse/UISINVCOMP-59) Remove "Shelving order" from search option and advanced search on Instance tab.
+
+## [2.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.0) (2025-03-13)
 
 - [UISINVCOMP-25](https://issues.folio.org/browse/UISINVCOMP-25) *BREAKING* Replace certain facets UX with `MultiSelection` component.
 - [UISINVCOMP-41](https://issues.folio.org/browse/UISINVCOMP-41) Reset `accordionsStatus` in `useFacets` for `Browse` search when `qindex` is changed.

@@ -3,6 +3,7 @@
 ## [2.1.0] (IN PROGRESS)
 
 - [UISINVCOMP-59](https://issues.folio.org/browse/UISINVCOMP-59) Remove "Shelving order" from search option and advanced search on Instance tab.
+- [UISINVCOMP-60](https://issues.folio.org/browse/UISINVCOMP-60) Remove default Staff suppress facet settings.
 
 ## [2.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.0) (2025-03-13)
 

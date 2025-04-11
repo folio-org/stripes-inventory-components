@@ -1,9 +1,12 @@
 # Change history for stripes-inventory-components
 
+## [2.0.2] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.2) (2025-04-11)
+
+- [UISINVCOMP-60](https://issues.folio.org/browse/UISINVCOMP-60) Remove default Staff suppress facet settings.
+
 ## [2.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.1) (2025-04-09)
 
 - [UISINVCOMP-59](https://issues.folio.org/browse/UISINVCOMP-59) Remove "Shelving order" from search option and advanced search on Instance tab.
-- [UISINVCOMP-60](https://issues.folio.org/browse/UISINVCOMP-60) Remove default Staff suppress facet settings.
 
 ## [2.0.0] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.0) (2025-03-13)
 

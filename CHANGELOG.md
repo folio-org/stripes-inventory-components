@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.1.0] (IN PROGRESS)
+
+- [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.
+
 ## [2.0.1] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.1) (2025-04-09)
 
 - [UISINVCOMP-59](https://issues.folio.org/browse/UISINVCOMP-59) Remove "Shelving order" from search option and advanced search on Instance tab.

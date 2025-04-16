@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.1.0] (IN PROGRESS)
+
+- [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.
+
 ## [2.0.2] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.2) (2025-04-11)
 
 - [UISINVCOMP-60](https://issues.folio.org/browse/UISINVCOMP-60) Remove default Staff suppress facet settings.

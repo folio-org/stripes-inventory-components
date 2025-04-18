@@ -48,7 +48,7 @@
     "search.allFields": "Všechny",
     "search.callNumberEyeReadable": "Signatura, nenormalizovaná",
     "search.callNumberNormalized": "Signatura, normalizovaná",
-    "search.holdingsNotes": "Poznámky holdingů (všechny)",
+    "search.holdingsNotes": "Poznámky k holdingům (všechny)",
     "search.holdingsAdministrativeNotes": "Administrativní poznámky k holdingům",
     "search.holdingsHrid": "HRID holdingů",
     "search.holdingsUuid": "UUID holdingů",

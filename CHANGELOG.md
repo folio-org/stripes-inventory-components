@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.1.0] (IN PROGRESS)
+
+- [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
+
 ## [2.0.3] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.3) (2025-04-18)
 
 - [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.

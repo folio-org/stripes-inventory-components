@@ -1,6 +1,6 @@
 # Change history for stripes-inventory-components
 
-## [2.0.4] (IN PROGRESS)
+## [2.0.4] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.4) (2025-05-13)
 
 - Reverted: [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.
 - [UISINVCOMP-68](https://issues.folio.org/browse/UISINVCOMP-68) Hide tenant names next to locations with duplicate ids across tenants.

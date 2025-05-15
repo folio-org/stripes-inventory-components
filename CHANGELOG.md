@@ -3,6 +3,10 @@
 ## [2.1.0] (IN PROGRESS)
 
 - [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
+
+## [2.0.4] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.4) (2025-05-13)
+
+- Reverted: [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.
 - [UISINVCOMP-68](https://issues.folio.org/browse/UISINVCOMP-68) Hide tenant names next to locations with duplicate ids across tenants.
 
 ## [2.0.3] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.3) (2025-04-18)

@@ -8,6 +8,7 @@
 
 - Reverted: [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.
 - [UISINVCOMP-68](https://issues.folio.org/browse/UISINVCOMP-68) Hide tenant names next to locations with duplicate ids across tenants.
+- [UISINVCOMP-67](https://issues.folio.org/browse/UISINVCOMP-67) Add "barcode" to title of Keyword option in Item Search tab.
 
 ## [2.0.3] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.3) (2025-04-18)
 

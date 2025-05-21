@@ -3,6 +3,7 @@
 ## [2.1.0] (IN PROGRESS)
 
 - [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
+- [UISINVCOMP-70](https://issues.folio.org/browse/UISINVCOMP-70) Change title of Keyword search option of "Advanced search" to remove identifiers.
 
 ## [2.0.4] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.4) (2025-05-13)
 

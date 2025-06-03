@@ -33,7 +33,7 @@
   "facet.nameType": "Name type",
   "search.keyword": "Keyword (title, contributor, identifier, HRID, UUID)",
   "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
-  "search.advanced.keyword": "Keyword (title, contributor)",
+  "search.advanced.keyword": "Keyword (title, contributor, identifier)",
   "search.contributor": "Contributor",
   "search.title": "Title (all)",
   "search.identifierAll": "Identifier (all)",

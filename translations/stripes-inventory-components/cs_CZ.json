@@ -90,5 +90,7 @@
     "instances.columns.date": "Datum",
     "dateRange": "Datumový interval",
     "facet.nameType": "Typ jména",
-    "error.badRequest": "Vyhledávání se nepodařilo zpracovat. Zkontrolujte prosím svůj dotaz a zkuste to znovu."
+    "error.badRequest": "Vyhledávání se nepodařilo zpracovat. Zkontrolujte prosím svůj dotaz a zkuste to znovu.",
+    "search.item.keyword": "Klíčové slovo (název, přispěvatel, identifikátor, HRID, UUID, čárový kód)",
+    "search.advanced.keyword": "Klíčové slovo (název, autorita)"
 }

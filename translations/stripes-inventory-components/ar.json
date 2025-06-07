@@ -90,5 +90,7 @@
     "instances.columns.date": "التاريخ",
     "dateRange": "نطاق التاريخ",
     "facet.nameType": "نوع الاسم",
-    "error.badRequest": "تعذرت معالجة البحث. يرجى التحقق من استعلامك والمحاولة مرة أخرى."
+    "error.badRequest": "تعذرت معالجة البحث. يرجى التحقق من استعلامك والمحاولة مرة أخرى.",
+    "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
+    "search.advanced.keyword": "Keyword (title, contributor)"
 }

@@ -90,5 +90,7 @@
     "instances.columns.date": "Data",
     "dateRange": "Intervalo de datas",
     "facet.nameType": "Tipo de nome",
-    "error.badRequest": "A busca não pôde ser processada. Verifique sua consulta e tente novamente."
+    "error.badRequest": "A busca não pôde ser processada. Verifique sua consulta e tente novamente.",
+    "search.item.keyword": "Palavra-chave (título, colaborador, identificador, HRID, UUID, código de barras)",
+    "search.advanced.keyword": "Palavra-chave (título, colaborador)"
 }

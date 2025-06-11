@@ -17,7 +17,7 @@
     "facet.shared": "Wspólny",
     "facet.language": "Język",
     "facet.effectiveLocation": "Aktualna lokalizacja (egzemplarz)",
-    "facet.tenantId": "Trzymany przez",
+    "facet.tenantId": "Przechowywany przez",
     "facet.tags": "Tagi",
     "facet.source": "Źródło",
     "facet.format": "Format",
@@ -30,7 +30,7 @@
     "facet.holdingsType": "Typ zasobów",
     "facet.materialType": "Rodzaj materiału",
     "search.keyword": "Słowo kluczowe (tytuł, współtwórca, identyfikator, HRID, UUID)",
-    "search.contributor": "Współtwórca",
+    "search.contributor": "Współautor",
     "search.title": "Tytuł (wszystko)",
     "search.identifierAll": "Identyfikator (wszystko)",
     "search.isbn": "ISBN",
@@ -85,10 +85,12 @@
     "item.status.withdrawn": "Wycofany",
     "search.placeOfPublication": "Miejsce publikacji",
     "instances.columns.title": "Tytuł",
-    "instances.columns.contributors": "Współtwórcy",
+    "instances.columns.contributors": "Współautorzy",
     "instances.columns.publishers": "Wydawcy",
     "instances.columns.date": "Data",
     "dateRange": "Zakres dat",
-    "facet.nameType": "Rodzaj autora",
-    "error.badRequest": "Nie można przetworzyć wyszukiwania. Sprawdź zapytanie i spróbuj ponownie."
+    "facet.nameType": "Rodzaj nazwy",
+    "error.badRequest": "Nie można przetworzyć wyszukiwania. Sprawdź zapytanie i spróbuj ponownie.",
+    "search.item.keyword": "Słowo kluczowe (tytuł, współautor, identyfikator, HRID, UUID, kod kreskowy)",
+    "search.advanced.keyword": "Słowo kluczowe (tytuł, współautor)"
 }

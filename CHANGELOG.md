@@ -4,6 +4,7 @@
 
 - [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
 - [UISINVCOMP-70](https://issues.folio.org/browse/UISINVCOMP-70) Change title of Keyword search option of "Advanced search" to remove HRID and UUID.
+- [UISINVCOMP-72](https://issues.folio.org/browse/UISINVCOMP-72) Append tenant name to all locations in the location facets except those with duplicate ids.
 
 ## [2.0.4] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.4) (2025-05-13)
 

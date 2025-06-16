@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.0.5] (IN PROGRESS)
+
+- [UISINVCOMP-72](https://issues.folio.org/browse/UISINVCOMP-72) Append tenant name to all locations in the location facets except those with duplicate ids.
+
 ## [2.0.4] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.4) (2025-05-13)
 
 - Reverted: [UISINVCOMP-63](https://issues.folio.org/browse/UISINVCOMP-63) Display correct Effective location when it exists on multiple tenants.

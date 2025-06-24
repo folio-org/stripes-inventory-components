@@ -92,5 +92,5 @@
     "facet.nameType": "이름 유형",
     "error.badRequest": "Search could not be processed. Please check your query and try again.",
     "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
-    "search.advanced.keyword": "Keyword (title, contributor)"
+    "search.advanced.keyword": "Keyword (title, contributor, identifier)"
 }

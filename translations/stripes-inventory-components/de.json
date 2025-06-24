@@ -90,7 +90,7 @@
     "instances.columns.date": "Datum",
     "dateRange": "Datumsbereich",
     "facet.nameType": "Namenstyp",
-    "error.badRequest": "Search could not be processed. Please check your query and try again.",
-    "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
-    "search.advanced.keyword": "Keyword (title, contributor)"
+    "error.badRequest": "Die Suche konnte nicht verarbeitet werden. Bitte überprüfen Sie Ihre Anfrage und versuchen Sie es erneut.",
+    "search.item.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator, HRID, UUID, Barcode)",
+    "search.advanced.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator)"
 }

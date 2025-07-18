@@ -21,7 +21,7 @@
     "facet.tags": "Mots-clés",
     "facet.source": "Source",
     "facet.format": "Format",
-    "facet.modeOfIssuance": "Mode d'émission",
+    "facet.modeOfIssuance": "Type de parution",
     "facet.natureOfContentTerms": "Nature du contenu",
     "facet.staffSuppress": "Masquer de l'interface professionnelle",
     "facet.discoverySuppress": "Masquer dans l'outil de découverte",
@@ -29,7 +29,7 @@
     "facet.holdingsPermanentLocation": "Localisation permanente",
     "facet.holdingsType": "Type de localisations",
     "facet.materialType": "Type de matériel",
-    "search.keyword": "Keyword (title, contributor, identifier, HRID, UUID)",
+    "search.keyword": "Mot-clé (titre, contributeur, identifiant, HRID, UUID)",
     "search.contributor": "Contributeur / auteur",
     "search.title": "Titre (tous)",
     "search.identifierAll": "Identifiant (tous)",
@@ -62,7 +62,7 @@
     "search.itemUuid": "UUID de l'exemplaire",
     "search.querySearch": "Recherche de requête",
     "search.advancedSearch": "Recherche avancée",
-    "item.status.agedToLost": "Considéré comme perdu",
+    "item.status.agedToLost": "Perdu",
     "item.status.available": "Disponible",
     "item.status.awaitingPickup": "En attente de retrait",
     "item.status.awaitingDelivery": "En attente de livraison",
@@ -91,6 +91,6 @@
     "dateRange": "Plage de dates",
     "facet.nameType": "Type de nom",
     "error.badRequest": "Search could not be processed. Please check your query and try again.",
-    "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
-    "search.advanced.keyword": "Keyword (title, contributor, identifier)"
+    "search.item.keyword": "Mot-clé (titre, contributeur, identifiant, HRID, UUID, code-barres)",
+    "search.advanced.keyword": "Mot-clé (titre, contributeur, identifiant)"
 }

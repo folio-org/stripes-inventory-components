@@ -5,6 +5,7 @@
 - [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
 - [UISINVCOMP-70](https://issues.folio.org/browse/UISINVCOMP-70) Change title of Keyword search option of "Advanced search" to remove HRID and UUID.
 - [UISINVCOMP-75](https://issues.folio.org/browse/UISINVCOMP-75) Allow tenant to set default columns to display in Inventory results.
+- [UISINVCOMP-74](https://issues.folio.org/browse/UISINVCOMP-74) Inventory : Escape quotes in Basic search.
 
 ## [2.0.5] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.5) (2025-06-17)
 

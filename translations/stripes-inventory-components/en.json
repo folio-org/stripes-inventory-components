@@ -92,5 +92,6 @@
   "instances.columns.contributors": "Contributors",
   "instances.columns.publishers": "Publishers",
   "instances.columns.date": "Date",
+  "instances.columns.hrid": "Instance HRID",
   "error.badRequest": "Search could not be processed. Please check your query and try again."
 }

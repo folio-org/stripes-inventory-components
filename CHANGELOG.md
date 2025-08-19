@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.0.6] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.6) (2025-08-26)
+
+- [UISINVCOMP-77](https://issues.folio.org/browse/UISINVCOMP-77) Hide staff suppressed Instances based on existing permission for Staff suppress facet.
+
 ## [2.0.5] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.5) (2025-06-17)
 
 - [UISINVCOMP-72](https://issues.folio.org/browse/UISINVCOMP-72) Append tenant name to all locations in the location facets except those with duplicate ids.

@@ -7,6 +7,7 @@
 - [UISINVCOMP-75](https://issues.folio.org/browse/UISINVCOMP-75) Allow tenant to set default columns to display in Inventory results.
 - [UISINVCOMP-74](https://issues.folio.org/browse/UISINVCOMP-74) Inventory : Escape quotes in Basic search.
 - [UISINVCOMP-76](https://issues.folio.org/browse/UISINVCOMP-76) Find instance plugin - Adding HRID to the Inventory results list & show columns options.
+- [UISINVCOMP-82](https://issues.folio.org/browse/UISINVCOMP-82) Don't apply default Staff suppress facet for Browse.
 
 ## [2.0.6] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.6) (2025-08-26)
 

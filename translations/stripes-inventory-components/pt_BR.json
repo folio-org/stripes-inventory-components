@@ -24,9 +24,9 @@
     "facet.modeOfIssuance": "Modo de emissão",
     "facet.natureOfContentTerms": "Natureza do conteúdo",
     "facet.staffSuppress": "Oculto para a equipe",
-    "facet.discoverySuppress": "Oculto da descoberta",
+    "facet.discoverySuppress": "Ocultar da descoberta",
     "facet.statisticalCode": "Código estatístico",
-    "facet.holdingsPermanentLocation": "Local permanente da coleção",
+    "facet.holdingsPermanentLocation": "Local permanente da acervo",
     "facet.holdingsType": "Tipo de acervo",
     "facet.materialType": "Tipo de material",
     "search.keyword": "Palavra-chave (título, colaborador, identificador, HRID, UUID)",
@@ -48,10 +48,10 @@
     "search.allFields": "Todos",
     "search.callNumberEyeReadable": "Número de chamada, não normalizado",
     "search.callNumberNormalized": "Número de chamada, normalizado",
-    "search.holdingsNotes": "Notas de coleção (todas)",
-    "search.holdingsAdministrativeNotes": "Notas administrativas de coleção",
+    "search.holdingsNotes": "Notas de acervo (todas)",
+    "search.holdingsAdministrativeNotes": "Notas administrativas de acervo",
     "search.holdingsHrid": "Acervo HRID",
-    "search.holdingsUuid": "UUID da coleção",
+    "search.holdingsUuid": "UUID da acervo",
     "search.barcode": "Código de barras",
     "search.itemEffectiveCallNumberEyeReadable": "Número de chamada efetivo (item), não normalizado",
     "search.itemEffectiveCallNumberNormalized": "Número de chamada efetivo (item), normalizado",
@@ -92,5 +92,6 @@
     "facet.nameType": "Tipo de nome",
     "error.badRequest": "A busca não pôde ser processada. Verifique sua consulta e tente novamente.",
     "search.item.keyword": "Palavra-chave (título, colaborador, identificador, HRID, UUID, código de barras)",
-    "search.advanced.keyword": "Palavra-chave (título, colaborador, identificador)"
+    "search.advanced.keyword": "Palavra-chave (título, colaborador, identificador)",
+    "instances.columns.hrid": "HRID da instância"
 }

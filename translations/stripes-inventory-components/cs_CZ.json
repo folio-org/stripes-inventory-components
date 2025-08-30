@@ -42,7 +42,7 @@
     "search.instanceAdministrativeNotes": "Administrativní poznámky titulu",
     "search.subject": "Předmět",
     "search.effectiveCallNumberShelving": "Efektivní signatura (jednotka), pořadí regálů",
-    "search.instanceHrid": "HRID titulu",
+    "search.instanceHrid": "Titul (HRID)",
     "search.instanceId": "Titul (UUID)",
     "search.authorityId": "Autorita (UUID)",
     "search.allFields": "Všechny",
@@ -92,5 +92,6 @@
     "facet.nameType": "Typ jména",
     "error.badRequest": "Vyhledávání se nepodařilo zpracovat. Zkontrolujte prosím svůj dotaz a zkuste to znovu.",
     "search.item.keyword": "Klíčové slovo (název, autor, identifikátor, HRID, UUID, čárový kód)",
-    "search.advanced.keyword": "Klíčové slovo (název, autor, identifikátor)"
+    "search.advanced.keyword": "Klíčové slovo (název, autor, identifikátor)",
+    "instances.columns.hrid": "Titul (HRID)"
 }

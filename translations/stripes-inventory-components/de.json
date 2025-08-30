@@ -92,5 +92,6 @@
     "facet.nameType": "Namenstyp",
     "error.badRequest": "Die Suche konnte nicht verarbeitet werden. Bitte überprüfen Sie Ihre Anfrage und versuchen Sie es erneut.",
     "search.item.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator, HRID, UUID, Barcode)",
-    "search.advanced.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator)"
+    "search.advanced.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator)",
+    "instances.columns.hrid": "Instanz HRID"
 }

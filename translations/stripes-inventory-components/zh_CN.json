@@ -92,5 +92,6 @@
     "facet.nameType": "名称类型",
     "error.badRequest": "无法处理搜索。请检查您的查询并重试。",
     "search.item.keyword": "关键字（题名、贡献者、标识符、HRID、UUID、条码）",
-    "search.advanced.keyword": "关键词（题名，贡献者）"
+    "search.advanced.keyword": "关键词（题名，贡献者，标识符）",
+    "instances.columns.hrid": "实例HRID"
 }

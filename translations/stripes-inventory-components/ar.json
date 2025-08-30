@@ -92,5 +92,6 @@
     "facet.nameType": "نوع الاسم",
     "error.badRequest": "تعذرت معالجة البحث. يرجى التحقق من استعلامك والمحاولة مرة أخرى.",
     "search.item.keyword": "Keyword (title, contributor, identifier, HRID, UUID, barcode)",
-    "search.advanced.keyword": "Keyword (title, contributor, identifier)"
+    "search.advanced.keyword": "Keyword (title, contributor, identifier)",
+    "instances.columns.hrid": "المعرف القابل للقراءة بشرياً للمادة"
 }

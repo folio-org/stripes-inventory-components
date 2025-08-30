@@ -92,5 +92,6 @@
     "facet.nameType": "Type naam",
     "error.badRequest": "Zoeken kon niet worden verwerkt. Controleer uw zoekopdracht en probeer het opnieuw.",
     "search.item.keyword": "Trefwoord (titel, Bijdrager, Identificatiekenmerk, HRID, UUID, Barcode)",
-    "search.advanced.keyword": "Trefwoord (titel, Bijdrager)"
+    "search.advanced.keyword": "Trefwoord (titel, Bijdrager)",
+    "instances.columns.hrid": "Instance HRID"
 }

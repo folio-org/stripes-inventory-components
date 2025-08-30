@@ -92,5 +92,6 @@
     "facet.nameType": "Rodzaj nazwy",
     "error.badRequest": "Nie można przetworzyć wyszukiwania. Sprawdź zapytanie i spróbuj ponownie.",
     "search.item.keyword": "Słowo kluczowe (tytuł, współautor, identyfikator, HRID, UUID, kod kreskowy)",
-    "search.advanced.keyword": "Słowo kluczowe (tytuł, współautor)"
+    "search.advanced.keyword": "Słowo kluczowe (tytuł, współautor)",
+    "instances.columns.hrid": "HRID instancji"
 }

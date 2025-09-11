@@ -8,6 +8,7 @@
 - [UISINVCOMP-74](https://issues.folio.org/browse/UISINVCOMP-74) Inventory : Escape quotes in Basic search.
 - [UISINVCOMP-76](https://issues.folio.org/browse/UISINVCOMP-76) Find instance plugin - Adding HRID to the Inventory results list & show columns options.
 - [UISINVCOMP-82](https://issues.folio.org/browse/UISINVCOMP-82) Don't apply default Staff suppress facet for Browse.
+- [UISINVCOMP-80](https://issues.folio.org/browse/UISINVCOMP-80) Update LCCN search option to search the new cancelled LCCN search index.
 
 ## [2.0.7] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.7) (2025-09-08)
 

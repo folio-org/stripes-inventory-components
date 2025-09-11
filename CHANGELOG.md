@@ -1,5 +1,9 @@
 # Change history for stripes-inventory-components
 
+## [2.0.8] (IN PROGRESS)
+
+- [UISINVCOMP-86](https://issues.folio.org/browse/UISINVCOMP-86) Update LCCN search option to search the new cancelled LCCN search index.
+
 ## [2.0.7] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.7) (2025-09-08)
 
 - [UISINVCOMP-84](https://issues.folio.org/browse/UISINVCOMP-84) Don't apply default Staff suppress facet for Browse.

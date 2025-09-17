@@ -11,6 +11,10 @@
 - [UISINVCOMP-80](https://issues.folio.org/browse/UISINVCOMP-80) Update LCCN search option to search the new cancelled LCCN search index.
 - [UISINVCOMP-90](https://issues.folio.org/browse/UISINVCOMP-90) Apply `allowUndefinedRecords` parameter to records manifest.
 
+## [2.0.8] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.8) (2025-09-17)
+
+- [UISINVCOMP-86](https://issues.folio.org/browse/UISINVCOMP-86) Update LCCN search option to search the new cancelled LCCN search index.
+
 ## [2.0.7] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.7) (2025-09-08)
 
 - [UISINVCOMP-84](https://issues.folio.org/browse/UISINVCOMP-84) Don't apply default Staff suppress facet for Browse.

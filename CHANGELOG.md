@@ -1,6 +1,6 @@
 # Change history for stripes-inventory-components
 
-## [2.0.8] (IN PROGRESS)
+## [2.0.8] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.8) (2025-09-17)
 
 - [UISINVCOMP-86](https://issues.folio.org/browse/UISINVCOMP-86) Update LCCN search option to search the new cancelled LCCN search index.
 

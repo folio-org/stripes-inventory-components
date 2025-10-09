@@ -11,6 +11,7 @@
 - [UISINVCOMP-80](https://issues.folio.org/browse/UISINVCOMP-80) Update LCCN search option to search the new cancelled LCCN search index.
 - [UISINVCOMP-90](https://issues.folio.org/browse/UISINVCOMP-90) Apply `allowUndefinedRecords` parameter to records manifest.
 - [UISINVCOMP-91](https://issues.folio.org/browse/UISINVCOMP-91) Remove default "expandAll=true" parameter from Instance Search requests.
+- [UISINVCOMP-92](https://issues.folio.org/browse/UISINVCOMP-92) Expand checking for `_isInitial` query state to work for both string and bool values.
 
 ## [2.0.8] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.8) (2025-09-17)
 

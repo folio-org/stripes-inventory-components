@@ -14,7 +14,7 @@
     "facet.instanceStatus": "Status instancji",
     "facet.itemStatus": "Status egzemplarza",
     "facet.instances.resourceType": "Typ zasobu",
-    "facet.shared": "Wspólny",
+    "facet.shared": "Współdzielony",
     "facet.language": "Język",
     "facet.effectiveLocation": "Aktualna lokalizacja (egzemplarz)",
     "facet.tenantId": "Przechowywany przez",

@@ -12,6 +12,7 @@
 - [UISINVCOMP-90](https://issues.folio.org/browse/UISINVCOMP-90) Apply `allowUndefinedRecords` parameter to records manifest.
 - [UISINVCOMP-91](https://issues.folio.org/browse/UISINVCOMP-91) Remove default "expandAll=true" parameter from Instance Search requests.
 - [UISINVCOMP-92](https://issues.folio.org/browse/UISINVCOMP-92) Expand checking for `_isInitial` query state to work for both string and bool values.
+- [UISINVCOMP-93](https://issues.folio.org/browse/UISINVCOMP-93) Add ISSN search to Keyword and Identifiers search options.
 
 ## [2.0.8] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.8) (2025-09-17)
 

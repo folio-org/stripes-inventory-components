@@ -1,6 +1,6 @@
 # Change history for stripes-inventory-components
 
-## [2.0.9] (IN PROGRESS)
+## [2.0.9] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.9) (2026-01-05)
 
 - [UISINVCOMP-96](https://issues.folio.org/browse/UISINVCOMP-96) Use contains search in facet options filter.
 

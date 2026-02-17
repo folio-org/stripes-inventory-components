@@ -52,7 +52,7 @@
     "search.holdingsAdministrativeNotes": "Holdings administrative notes",
     "search.holdingsHrid": "Holdings HRID",
     "search.holdingsUuid": "Holdings UUID",
-    "search.barcode": "Barcode",
+    "search.barcode": "บาร์โค้ด",
     "search.itemEffectiveCallNumberEyeReadable": "Effective call number (item), not normalized",
     "search.itemEffectiveCallNumberNormalized": "Effective call number (item), normalized",
     "search.itemNotes": "Item notes (all)",

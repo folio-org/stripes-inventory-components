@@ -57,7 +57,7 @@
     "search.itemEffectiveCallNumberNormalized": "Faktiskais šifrs (eksemplārs), normalizēts",
     "search.itemNotes": "Eksemplāra piezīmes (visi)",
     "search.itemAdministrativeNotes": "Eksemplāra administratīvās piezīmes",
-    "search.itemCirculationNotes": "Cirkulācijas piezīmes",
+    "search.itemCirculationNotes": "Aprites piezīmes",
     "search.itemHrid": "Eksemplāra HRID",
     "search.itemUuid": "Eksemplāra UUID",
     "search.querySearch": "Meklēšana pēc vaicājuma",

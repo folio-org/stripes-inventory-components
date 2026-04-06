@@ -16,6 +16,7 @@
 - [UISINVCOMP-94](https://issues.folio.org/browse/UISINVCOMP-94) Escape backslashes ("\") in Contributors during browsing and switching from browse to search.
 - [UISINVCOMP-100](https://issues.folio.org/browse/UISINVCOMP-100) Add identifiers.value as an explicit keyword search option.
 - [UISINVCOMP-83](https://issues.folio.org/browse/UISINVCOMP-83) Migrate to shared CI workflows.
+- [UISINVCOMP-101](https://issues.folio.org/browse/UISINVCOMP-101) Wrap advanced search parameters in parentheses to avoid ambiguous boolean operations.
 
 ## [2.0.9] (https://github.com/folio-org/stripes-inventory-components/tree/v2.0.9) (2026-01-05)
 

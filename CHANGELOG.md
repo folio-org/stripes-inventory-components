@@ -1,6 +1,6 @@
 # Change history for stripes-inventory-components
 
-## [2.1.0] (IN PROGRESS)
+## [2.1.0] (https://github.com/folio-org/stripes-inventory-components/tree/v2.1.0) (2026-04-17)
 
 - [UISINVCOMP-40](https://issues.folio.org/browse/UISINVCOMP-40) "startsWith" search by keyword and title should also search for a title that starts with a quotation mark.
 - [UISINVCOMP-70](https://issues.folio.org/browse/UISINVCOMP-70) Change title of Keyword search option of "Advanced search" to remove HRID and UUID.

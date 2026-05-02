@@ -42,7 +42,7 @@
     "search.instanceAdministrativeNotes": "Instanzverwaltungsnotiz",
     "search.subject": "Schlagwort",
     "search.effectiveCallNumberShelving": "Effektive Signatur (Exemplar), Regalordnung",
-    "search.instanceHrid": "Titel-HRID",
+    "search.instanceHrid": "Instanz-HRID",
     "search.instanceId": "Instanz-UUID",
     "search.authorityId": "Normdaten-UUID",
     "search.allFields": "Alles",
@@ -93,5 +93,5 @@
     "error.badRequest": "Die Suche konnte nicht verarbeitet werden. Bitte überprüfen Sie Ihre Anfrage und versuchen Sie es erneut.",
     "search.item.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator, HRID, UUID, Barcode)",
     "search.advanced.keyword": "Stichwort (Titel, Mitwirkende/-r, Identifikator)",
-    "instances.columns.hrid": "Instanz HRID"
+    "instances.columns.hrid": "Instanz-HRID"
 }

@@ -14,7 +14,7 @@
     "facet.instanceStatus": "Statut de la notice bibliographique",
     "facet.itemStatus": "Statut de l'exemplaire",
     "facet.instances.resourceType": "Type de ressource",
-    "facet.shared": "Shared",
+    "facet.shared": "Partagé",
     "facet.language": "Langue",
     "facet.effectiveLocation": "Emplacement (exemplaire)",
     "facet.tenantId": "Held by",
